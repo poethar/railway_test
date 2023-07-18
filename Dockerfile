@@ -1,4 +1,4 @@
-FROM myokoaung1585/main:mltb
+FROM myokoaung1585/main:mka-mltb
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 COPY . .
